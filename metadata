@@ -1,0 +1,83 @@
+Event UTC
+2019-08-14 21:10:39
+JD  2458710.3823958337
+MJD	58709.882395833731
+
+2019noq
+2019-08-21 04:48:01.405
+JD	2458716.7604167000 (mean obs time)
+MJD 58716.260416700039 (mean obs time)
+6.37802 (observed) days from event
+Type II at 0.07 (redshift from SN best fit), after peak
+
+2019ntn
+2019-08-21 05:25:21.686
+JD	2458716.7259454406 (mean obs time)
+MJD	58716.225945440587 (mean obs time)
+6.34355 (observed) days from event
+Type Ia-CSM/IIn at 0.1 (redshift from SN best fit and emission lines), after peak
+
+2019npw
+2019-08-27 05:03:06.724
+JD 2458722.7261192137  (mean obs time)
+MJD	58722.226119213738 (mean obs time)
+12.34372 (observed) days from event
+Type II at 0.149 (redshift from emission lines), after peak
+
+2019num
+2019-08-27 06:19:45.008
+JD	2458722.7671874985 (mean obs time)
+MJD	58722.267187498510 (mean obs time)
+12.38437 (observed) days from event
+Type IIb at 0.127 (redshift from Halpha of the spec), week before peak
+
+2019nte
+2019-08-22 04:52:03.400
+JD	2458717.7132292008 (mean obs time)
+MJD	58717.213229200803 (mean obs time)
+7.33245 (observed) days from event
+Looks like galaxy spectrum to me, Halpha at 0.070
+
+2019ntp
+2019-09-01 05:39:52.461
+JD	2458727.7464352190 (mean obs time)
+MJD	58727.246435218956 (mean obs time)
+17.36404 (observed) days from event
+Type Ia at 0.114 (redshift from Halpha of the spec), weeks after peak, consistent with lightcurve
+
+2019ntr
+2019-08-29 04:49:35.761
+JD	2458724.7167361118 (mean obs time)
+MJD	58724.216736111790 (mean obs time)
+14.3343 (observed) days from event
+Don't get good SN fits, seems relatively blue, I see Halpa and OIII5008 in emission at z=0.218, so redshift is solid (I think)
+
+2019omx
+2019-08-29 06:25:34.210
+JD	2458724.7705324101 (mean obs time)
+MJD	58724.270532410126 (mean obs time)
+14.38814 (observed) days from event
+4 minutes exposure (...), I see a strong line (both in 2D and extracted spec), if Halpha, this is z=0.164 (wildly different from gcn, z=0.275)
+
+2019nqq - desgw-190814c
+2019-08-17 06:22:41.103
+JD	2458712.7761690156 (mean obs time)
+MJD	58712.276169015560  (mean obs time)
+2.39377 (observed) days from event
+broad feature at 7000 Angstrom, narrow Halpha, Hbeta and OIII5008 for z=0.071, will go with some kind of Type II, phase unclear (no clear black-body slope)
+
+2019nqr - desgw-190814d
+2019-08-17 04:35:02.312
+JD	2458712.6979398108
+MJD	58712.197939810809
+2.31554 (observed) days from event
+Redenned SN-like spectrum (broad hydrogen, core-collapse), narrow emission lines from host at z=0.083
+
+AT2019nzd
+Very-very low S/N, nothing there, drop for now
+
+
+
+
+
+
